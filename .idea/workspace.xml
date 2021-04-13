@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f21a556b-7f68-4186-8a7b-5378b9efdf41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/002.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -30,6 +33,14 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,8 +53,10 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +68,9 @@
       <option name="presentableId" value="Default" />
       <updated>1618248293379</updated>
       <workItem from="1618248294511" duration="767000" />
-      <workItem from="1618324412466" duration="2613000" />
+      <workItem from="1618324412466" duration="4038000" />
+      <workItem from="1618330114084" duration="23000" />
+      <workItem from="1618330513311" duration="3852000" />
     </task>
     <servers />
   </component>
@@ -72,19 +87,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1012" y="135" key="#Deployment" timestamp="1618327419272">
+    <state x="1012" y="135" key="#Deployment" timestamp="1618330624127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1012" y="135" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1618327419272" />
-    <state x="314" y="443" key="NewPhpFileDialog" timestamp="1618249268935">
+    <state x="1012" y="135" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1618330624127" />
+    <state x="314" y="443" key="NewPhpFileDialog" timestamp="1618334362039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="314" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618249268935" />
-    <state x="1305" y="207" key="ftp.server.browser" timestamp="1618327412747">
+    <state x="314" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618334362039" />
+    <state x="1305" y="207" key="ftp.server.browser" timestamp="1618330622486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1305" y="207" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1618327412747" />
+    <state x="1305" y="207" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1618330622486" />
   </component>
 </project>
